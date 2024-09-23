@@ -6,7 +6,7 @@ import Servicios from '../Pages/Servicios';
 import Contactos from '../Pages/Contactos';
 import Mapa from '../Pages/Mapa';
 import Administracion from '../Pages/Administracion';
-import ProtectedRoute from '../Components/ProtectedRoute';
+import ProtectedRoute from './ProtectedRoute';
 import Tienda from '../Pages/Tienda';
 
 
